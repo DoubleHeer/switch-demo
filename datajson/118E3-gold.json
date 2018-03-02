@@ -1,0 +1,214 @@
+[
+  {
+    "model": "S1-118-001",
+    "name": "一位单控平板",
+    "firprice": "27.27",
+    "secprice": "10.908000000000001",
+    "part_name": "一位面板",
+    "part_price": "13.6"
+  },
+  {
+    "model": "S1-118-002",
+    "name": "一位双控平板",
+    "firprice": "29.07",
+    "secprice": "11.628",
+    "part_name": "二位面板",
+    "part_price": "13.6"
+  },
+  {
+    "model": "S1-118-003",
+    "name": "一位多控平板",
+    "firprice": "41.9",
+    "secprice": "16.76",
+    "part_name": "三位面板",
+    "part_price": "18.3"
+  },
+  {
+    "model": "S1-118-004",
+    "name": "一位单控大平板",
+    "firprice": "29.2",
+    "secprice": "11.68",
+    "part_name": "四位面板",
+    "part_price": "22.8"
+  },
+  {
+    "model": "S1-118-005",
+    "name": "一位双控大平板",
+    "firprice": "31.1",
+    "secprice": "12.440000000000001",
+    "part_name": "一位中平板单控",
+    "part_price": "13.67"
+  },
+  {
+    "model": "S1-118-006",
+    "name": "二位单控平板",
+    "firprice": "40.94",
+    "secprice": "16.376",
+    "part_name": "一位中平板双控",
+    "part_price": "15.47"
+  },
+  {
+    "model": "S1-118-007",
+    "name": "二位双控平板",
+    "firprice": "44.54",
+    "secprice": "17.816",
+    "part_name": "一位中平板多控",
+    "part_price": "28.3"
+  },
+  {
+    "model": "S1-118-008",
+    "name": "三位单控平板",
+    "firprice": "59.31",
+    "secprice": "23.724000000000004",
+    "part_name": "小二位平板单控",
+    "part_price": "25.8"
+  },
+  {
+    "model": "S1-118-009",
+    "name": "三位双控平板",
+    "firprice": "64.71",
+    "secprice": "25.884",
+    "part_name": "小二位平板双控",
+    "part_price": "27.3"
+  },
+  {
+    "model": "S1-118-010",
+    "name": "四位单控平板",
+    "firprice": "77.48",
+    "secprice": "30.992000000000004",
+    "part_name": "小三位平板单控",
+    "part_price": "36.75"
+  },
+  {
+    "model": "S1-118-011",
+    "name": "四位双控平板",
+    "firprice": "84.68",
+    "secprice": "33.87200000000001",
+    "part_name": "小三位平板双控",
+    "part_price": "41.05"
+  },
+  {
+    "model": "S1-118-012",
+    "name": "五位单控平板",
+    "firprice": "86.89",
+    "secprice": "34.756",
+    "part_name": "一位大平板单控",
+    "part_price": "15.6"
+  },
+  {
+    "model": "S1-118-013",
+    "name": "五位双控平板",
+    "firprice": "94.79",
+    "secprice": "37.916000000000004",
+    "part_name": "一位大平板双控",
+    "part_price": "17.5"
+  },
+  {
+    "model": "S1-118-014",
+    "name": "16A插座",
+    "firprice": "29.4",
+    "secprice": "11.76",
+    "part_name": "16A插座",
+    "part_price": "15.8"
+  },
+  {
+    "model": "S1-118-015",
+    "name": "五孔插座",
+    "firprice": "29.4",
+    "secprice": "11.76",
+    "part_name": "多功能插座",
+    "part_price": "13.6"
+  },
+  {
+    "model": "S1-118-016",
+    "name": "两位五孔插座",
+    "firprice": "45.2",
+    "secprice": "18.080000000000002",
+    "part_name": "一位五孔插座",
+    "part_price": "15.8"
+  },
+  {
+    "model": "S1-118-017",
+    "name": "三位五孔插座",
+    "firprice": "65.7",
+    "secprice": "26.28",
+    "part_name": "二位五孔插座",
+    "part_price": "31.6"
+  },
+  {
+    "model": "S1-118-018",
+    "name": "四位五孔插座",
+    "firprice": "86",
+    "secprice": "34.4",
+    "part_name": "三位五孔插座",
+    "part_price": "47.4"
+  },
+  {
+    "model": "S1-118-019",
+    "name": "一位单控平板带一位五孔插座",
+    "firprice": "43.07",
+    "secprice": "17.228",
+    "part_name": "一位电视插座",
+    "part_price": "15.8"
+  },
+  {
+    "model": "S1-118-020",
+    "name": "一位双控平板带一位五孔插座",
+    "firprice": "44.67",
+    "secprice": "17.868000000000002",
+    "part_name": "一位电话插座",
+    "part_price": "15.8"
+  },
+  {
+    "model": "S1-118-021",
+    "name": "一位单控平板带二位五孔插座",
+    "firprice": "63.57",
+    "secprice": "25.428",
+    "part_name": "一位电脑插座",
+    "part_price": "18.3"
+  },
+  {
+    "model": "S1-118-022",
+    "name": "一位双控平板带二位五孔插座",
+    "firprice": "65.37",
+    "secprice": "26.148000000000003",
+    "part_name": "调速开关",
+    "part_price": "45.3"
+  },
+  {
+    "model": "S1-118-023",
+    "name": "二位单控平板带二位五孔插座",
+    "firprice": "81.74",
+    "secprice": "32.696",
+    "part_name": "调光开关",
+    "part_price": "45.3"
+  },
+  {
+    "model": "S1-118-024",
+    "name": "二位双控平板带二位五孔插座",
+    "firprice": "85.34",
+    "secprice": "34.136",
+    "part_name": "节能声光控开关",
+    "part_price": "49.8"
+  },
+  {
+    "model": "S1-118-025",
+    "name": "三位单控平板带二位五孔插座",
+    "firprice": "91.15",
+    "secprice": "36.46",
+    "part_name": "节能触摸开关",
+    "part_price": "49.8"
+  },
+  {
+    "model": "S1-118-026",
+    "name": "三位双控平板带二位五孔插座",
+    "firprice": "95.45",
+    "secprice": "38.18",
+    "part_name": "空白面板",
+    "part_price": "4.3"
+  },
+  {
+    "part_name": "二位USB 插座",
+    "part_price": "81.5"
+}
+]

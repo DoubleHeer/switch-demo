@@ -1,0 +1,290 @@
+[
+  {
+    "model": "C1-001",
+    "name": "一开单控",
+    "firprice": "12.2",
+    "secprice": "4.27"
+  },
+  {
+    "model": "C1-002",
+    "name": "一开双控",
+    "firprice": "13.9",
+    "secprice": "4.865"
+  },
+  {
+    "model": "C1-003",
+    "name": "一开多控",
+    "firprice": "24.4",
+    "secprice": "8.54"
+  },
+  {
+    "model": "C1-004",
+    "name": "二开单控",
+    "firprice": "19.4",
+    "secprice": "6.789999999999999"
+  },
+  {
+    "model": "C1-005",
+    "name": "二开双控",
+    "firprice": "22.9",
+    "secprice": "8.014999999999999"
+  },
+  {
+    "model": "C1-006",
+    "name": "二开多控",
+    "firprice": "39.9",
+    "secprice": "13.964999999999998"
+  },
+  {
+    "model": "C1-007",
+    "name": "三开单控",
+    "firprice": "26.2",
+    "secprice": "9.17"
+  },
+  {
+    "model": "C1-008",
+    "name": "三开双控",
+    "firprice": "31.9",
+    "secprice": "11.165"
+  },
+  {
+    "model": "C1-009",
+    "name": "四位单控",
+    "firprice": "32.9",
+    "secprice": "11.514999999999999"
+  },
+  {
+    "model": "C1-010",
+    "name": "四位双控",
+    "firprice": "39.9",
+    "secprice": "13.964999999999998"
+  },
+  {
+    "model": "C1-011",
+    "name": "16A三孔",
+    "firprice": "21.8",
+    "secprice": "7.63"
+  },
+  {
+    "model": "C1-012",
+    "name": "五孔",
+    "firprice": "19.3",
+    "secprice": "6.755"
+  },
+  {
+    "model": "C1-013",
+    "name": "10A多功能三孔",
+    "firprice": "16.2",
+    "secprice": "5.669999999999999"
+  },
+  {
+    "model": "C1-014",
+    "name": "多功能五孔",
+    "firprice": "19.3",
+    "secprice": "6.755"
+  },
+  {
+    "model": "C1-015",
+    "name": "七孔",
+    "firprice": "23.2",
+    "secprice": "8.12"
+  },
+  {
+    "model": "C1-016",
+    "name": "一开三孔单控",
+    "firprice": "27.9",
+    "secprice": "9.764999999999999"
+  },
+  {
+    "model": "C1-017",
+    "name": "一开三孔双控",
+    "firprice": "29.9",
+    "secprice": "10.464999999999998"
+  },
+  {
+    "model": "C1-018",
+    "name": "一开五孔单控",
+    "firprice": "28.9",
+    "secprice": "10.114999999999998"
+  },
+  {
+    "model": "C1-019",
+    "name": "一开五孔双控",
+    "firprice": "30.7",
+    "secprice": "10.745"
+  },
+  {
+    "model": "C1-020",
+    "name": "二开五孔单控",
+    "firprice": "32.2",
+    "secprice": "11.27"
+  },
+  {
+    "model": "C1-021",
+    "name": "二开五孔双控",
+    "firprice": "35.9",
+    "secprice": "12.565"
+  },
+  {
+    "model": "C1-022",
+    "name": "电视",
+    "firprice": "21.5",
+    "secprice": "7.5249999999999995"
+  },
+  {
+    "model": "C1-023",
+    "name": "电视分支一分一",
+    "firprice": "30.2",
+    "secprice": "10.569999999999999"
+  },
+  {
+    "model": "C1-024",
+    "name": "电视分支一分二",
+    "firprice": "36.45",
+    "secprice": "12.7575"
+  },
+  {
+    "model": "C1-025",
+    "name": "电话",
+    "firprice": "21.5",
+    "secprice": "7.5249999999999995"
+  },
+  {
+    "model": "C1-026",
+    "name": "电脑",
+    "firprice": "30.9",
+    "secprice": "10.815"
+  },
+  {
+    "model": "C1-027",
+    "name": "二孔电视",
+    "firprice": "29.9",
+    "secprice": "10.464999999999998"
+  },
+  {
+    "model": "C1-028",
+    "name": "二位电话",
+    "firprice": "29.9",
+    "secprice": "10.464999999999998"
+  },
+  {
+    "model": "C1-029",
+    "name": "二位电脑",
+    "firprice": "47.4",
+    "secprice": "16.59"
+  },
+  {
+    "model": "C1-030",
+    "name": "电话/电脑",
+    "firprice": "37.9",
+    "secprice": "13.264999999999999"
+  },
+  {
+    "model": "C1-031",
+    "name": "电视/电话",
+    "firprice": "29.9",
+    "secprice": "10.464999999999998"
+  },
+  {
+    "model": "C1-032",
+    "name": "电视/电脑",
+    "firprice": "37.9",
+    "secprice": "13.264999999999999"
+  },
+  {
+    "model": "C1-033",
+    "name": "一位音箱",
+    "firprice": "30.6",
+    "secprice": "10.709999999999999"
+  },
+  {
+    "model": "C1-034",
+    "name": "二位音箱",
+    "firprice": "43.9",
+    "secprice": "15.364999999999998"
+  },
+  {
+    "model": "C1-035",
+    "name": "声光控开关",
+    "firprice": "54.9",
+    "secprice": "19.215"
+  },
+  {
+    "model": "C1-036",
+    "name": "声光控开关节能",
+    "firprice": "79.9",
+    "secprice": "27.965"
+  },
+  {
+    "model": "C1-037",
+    "name": "触摸开关",
+    "firprice": "54.9",
+    "secprice": "19.215"
+  },
+  {
+    "model": "C1-038",
+    "name": "触摸开关节能",
+    "firprice": "79.9",
+    "secprice": "27.965"
+  },
+  {
+    "model": "C1-039",
+    "name": "调光",
+    "firprice": "54.9",
+    "secprice": "19.215"
+  },
+  {
+    "model": "C1-040",
+    "name": "调速",
+    "firprice": "54.9",
+    "secprice": "19.215"
+  },
+  {
+    "model": "C1-041",
+    "name": "人体感应",
+    "firprice": "135.6",
+    "secprice": "47.459999999999994"
+  },
+  {
+    "model": "C1-042",
+    "name": "人体感应节能",
+    "firprice": "175.6",
+    "secprice": "61.459999999999994"
+  },
+  {
+    "model": "C1-043",
+    "name": "插卡取电",
+    "firprice": "156.9",
+    "secprice": "54.915"
+  },
+  {
+    "model": "C1-044",
+    "name": "感应插卡取电",
+    "firprice": "282.4",
+    "secprice": "98.83999999999999"
+  },
+  {
+    "model": "C1-045",
+    "name": "一位门铃开关",
+    "firprice": "18.5",
+    "secprice": "6.475"
+  },
+  {
+    "model": "C1-046",
+    "name": "请勿打扰，清理门铃开关",
+    "firprice": "66.2",
+    "secprice": "23.169999999999998"
+  },
+  {
+    "model": "C1-047",
+    "name": "空白面板",
+    "firprice": "9.5",
+    "secprice": "3.3249999999999997"
+  },
+  {
+    "model": "C1-048",
+    "name": "五孔SUB",
+    "firprice": "100",
+    "secprice": "35"
+  }
+]

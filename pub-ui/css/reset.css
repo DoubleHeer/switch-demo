@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS reset */
+/*======CSS reset star======*/
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,hr,p,blockquote,pre,abbr,acronym,del,cite,address,small,sub,sup,b,u,i,center,font,em,strong,dl,dt,dd,ul,ol,li,form,fieldset,legend,table,caption,thead,tbody,tfoot,tr,th,td{margin:0;padding:0;outline:none;}
+html,body{;font:normal 12px/1.5 "microsoft yahei", "Droid Sans", "Droid Sans Fallback", "Lucida Grande", "Hiragino Sans GB", "Hiragino Sans GB W3";  color:#333;}
+ol, dl, ul, li, dl, dd, dt{list-style-type:none}a{font-size: 12px;text-decoration:none;cursor:pointer;}
+a:hover{text-decoration:none !important;}a:active{text-decoration:none;}a:focus{outline:none;text-decoration:none;}
+table{border-collapse:collapse;border-spacing:0;}caption,th,td{font-weight:normal;text-align:left;}input,textarea,select,button{font-family:inherit;margin:0;padding:0;}label,button{cursor:pointer;}
+textarea{white-space:pre;resize:none;border:1px solid #ececec;}
+article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary{margin:0;padding:0;display:block;border:0;}
+img{border:none;vertical-align:middle;}
+h1,h2,h3,h4,h5,h6{font-weight: normal;}
+table,th,td{border-collapse:collapse;}
+input{cursor:text;}
+address,caption,cite,dfn,strong,th,var{	font-style:normal;	font-wight:normal;}
+caption,th,td{	text-align:center;}
+/*input{border:none;}*/
+/*======CSS reset end======*/

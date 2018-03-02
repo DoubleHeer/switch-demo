@@ -1,0 +1,42 @@
+[
+{
+    "switch_name": "E3金色",
+    "switch_file": "E3-gold.json"
+},
+{
+    "switch_name": "S1亚克力",
+    "switch_file": "S1-yakeli.json"
+},
+{
+    "switch_name": "C1白色",
+    "switch_file": "C1-white.json"
+},
+{
+    "switch_name": "E6银色",
+    "switch_file": "E6-silver.json"
+},
+{
+    "switch_name": "118G金色",
+    "switch_file": "118G-gold.json"
+},
+{
+    "switch_name": "118S1亚克力",
+    "switch_file": "118S1-yakeli.json"
+},
+{
+    "switch_name": "G金色",
+    "switch_file": "G-gold.json"
+},
+{
+    "switch_name": "S118E3金色",
+    "switch_file": "118E3-gold.json"
+},
+{
+    "switch_name": "118E6银色",
+    "switch_file": "118E6-silver.json"
+},
+{
+    "switch_name": "118C1白色",
+    "switch_file": "118C1-white.json"
+}
+]

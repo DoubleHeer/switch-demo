@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>开关信息查询</title>
+    <link rel="stylesheet" href="../pub-ui/css/reset.css" />
+    <link rel="stylesheet" href="../pub-ui/css/basic.css" />
+    <link rel="stylesheet" href="../pub-ui/css/style.css" />
+</head>
+
+<body>
+    <div class="main-body-center pdt-10">
+        <div class="bd-l-gray mgl-10 pdl-10 mgr-10">
+            <div class="pdb-10 bd-b-gray">
+                <span class="fs16 font-color-black mgr-10">开关信息查询</span>
+            </div>
+            <div class="mgt-20 mgb-10">
+                <a class="btn-s-white dialog-btn-1" id="all_btn">全部</a>
+                <a class="btn-s-white dialog-btn-2 mgl-10" id="select_btn">选中的</a>
+            </div>
+            <div class=" hide"  id="induce_part">
+                <div class="mgt-20 mgb-10 ">
+                    <a class="btn-s-white dialog-btn-1" id="export_excel">导出Excel</a>
+                </div>
+                <table width="760"  class="table-style-2">
+                    <colgroup>
+                        <col width="50" />
+                        <col width="80" />
+                        <col width="80" />
+                        <col width="50" />
+                        <col width="50" />
+                        <col width="80" />
+                        <col width="80" />
+                        <col width="80" />
+                        <col width="50" />
+                        <col width="80" />
+                        <col width="80" />
+                  <!--       <col width="5%" />
+                        <col width="5%" />
+                        <col width="5%" />
+                        <col width="50" />
+                        <col width="5%" />
+                        <col width="5%" />
+                        <col width="5%" />
+                        <col width="5%" />
+                        <col width="5%" />
+                        <col width="5%" />
+                        <col width="20%" /> -->
+                    </colgroup>
+                    <thead>
+                        <tr>
+                            <td>序号</td>
+                            <td>型号</td>
+                            <td>名称</td>
+                            <td>图片</td>
+                            <td>单价</td>
+                            <td>数量</td>
+                            <td>金额</td>
+                            <td></td>
+                            <td>原价</td>
+                            <td>进价折扣</td>
+                            <td>进价</td>
+                        </tr>
+                    </thead>
+                    <tbody id="table_select_data">
+                    </tbody>
+                </table>
+            </div>
+            <div id="search_type_part">
+                <div class="pdt-15 pdr-20 mgb-10">
+                    <div class="clearfix">
+                        <span class="fl line-h-32">分类：</span>
+                        <div class="position-rel fl">
+                            <span class="bg-select"></span>
+                            <select name="" id="switch_data_type" class="ipt-gray-style1">
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="pdt-20 pdb-20 bd-b-gray">
+                    <p>开关信息：
+                        <input type="text" class="ipt-gray-style1-s" id="switch_text" />
+                        <a href="javascript:void(0)" class="btn-s-green" id="switch_search">搜索</a>
+                        <a href="javascript:void(0)" class="btn-s-gray mgl-10" id="switch_reset">重置</a>
+                    </p>
+                </div>
+                <table width="100%" style="border-collapse: collapse;" class="table-style-2">
+                    <colgroup>
+                        <col width="5%" />
+                        <col width="5%" />
+                        <col width="5%" />
+                        <col width="5%" />
+                        <col width="5%" />
+                        <col width="5%" />
+                        <col width="5%" />
+                        <col width="20%" />
+                    </colgroup>
+                    <thead>
+                        <tr>
+                            <td>
+                                <!-- <input type="checkbox" class="js-check-all" /> -->
+                            </td>
+                            <td>序号</td>
+                            <td>型号</td>
+                            <td>名称</td>
+                            <td>图片</td>
+                            <td>原价</td>
+                            <td>单价</td>
+                            <td></td>
+                        </tr>
+                    </thead>
+                    <tbody id="table_data">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="../pub-ui/js/jquery-1.11.1.js"></script>
+    <script type="text/javascript" src="../pub-ui/js/ui.js"></script>
+    <script src="../js/JsonExportExcel.min.js"></script>
+    <script type="text/javascript" src="../js/switch.js"></script>
+</body>
+
+</html>
