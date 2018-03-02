@@ -1,6 +1,7 @@
 $(function() {
     var current_data;
-    var select_data = [{ "model": "总计", "name": "", "firprice": "", "secprice": "", "count": "", "sum_money": "","discount":"","enterprice":"" }];
+    var select_data = [{ "model": "总计", "name": "", "firprice": "", "secprice": "", "count": "", "sum_money": "", "discount": "", "enterprice": "" }];
+
     //全部
     $(document).on('click', '#all_btn', function(e) {
         $("#induce_part").addClass("hide");
@@ -104,13 +105,21 @@ $(function() {
     });
     //导出
     $(document).on('click', '#export_excel', function(e) {
+        // $("#select_table").table2excel({
+        //     name: "开关信息表",
+        //     filename: "开关信息表",
+        //     exclude_img: true,
+        //     exclude_links: true,
+        //     exclude_inputs: true
+        // });
+        // return;
         var option = {};
         option.fileName = '开关价格信息';
         option.datas = [{
             sheetData: select_data,
             sheetName: '开关价格信息表',
-            sheetFilter: ['model', 'name',  'secprice', 'count', 'sum_money','firprice','discount','enterprice'],
-            sheetHeader: ['型号', '名称', '单价', '数量', '金额','原价', '折扣','进价']
+            sheetFilter: ['model', 'name', 'secprice', 'count', 'sum_money', 'firprice', 'discount', 'enterprice'],
+            sheetHeader: ['型号', '名称', '单价', '数量', '金额', '原价', '折扣', '进价']
         }];
         var toExcel = new ExportJsonExcel(option);
         toExcel.saveExcel();
@@ -274,4 +283,5 @@ $(function() {
     }
 
     getSwitchDataJson();
+
 });
