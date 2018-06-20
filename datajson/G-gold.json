@@ -2,271 +2,226 @@
   {
     "model": "G-001",
     "name": "一开单控",
-    "firprice": "27.3",
-    "secprice": "9.555"
+    "original_price": "27.3"
   },
   {
     "model": "G-002",
     "name": "一开双控",
-    "firprice": "28.5",
-    "secprice": "9.975"
+    "original_price": "28.5"
   },
   {
     "model": "G-003",
     "name": "一开多控",
-    "firprice": "35.8",
-    "secprice": "12.529999999999998"
+    "original_price": "35.8"
   },
   {
     "model": "G-004",
     "name": "二开单控",
-    "firprice": "31.6",
-    "secprice": "11.06"
+    "original_price": "31.6"
   },
   {
     "model": "G-005",
     "name": "二开双控",
-    "firprice": "34.3",
-    "secprice": "12.004999999999999"
+    "original_price": "34.3"
   },
   {
     "model": "G-006",
     "name": "二开多控",
-    "firprice": "57.3",
-    "secprice": "20.054999999999996"
+    "original_price": "57.3"
   },
   {
     "model": "G-007",
     "name": "三开单控",
-    "firprice": "40.3",
-    "secprice": "14.104999999999999"
+    "original_price": "40.3"
   },
   {
     "model": "G-008",
     "name": "三开双控",
-    "firprice": "44.3",
-    "secprice": "15.504999999999997"
+    "original_price": "44.3"
   },
   {
     "model": "G-009",
     "name": "四位单控",
-    "firprice": "49.9",
-    "secprice": "17.465"
+    "original_price": "49.9"
   },
   {
     "model": "G-010",
     "name": "四位双控",
-    "firprice": "56.3",
-    "secprice": "19.705"
+    "original_price": "56.3"
   },
   {
     "model": "G-011",
     "name": "16A三孔",
-    "firprice": "35.6",
-    "secprice": "12.459999999999999"
+    "original_price": "35.6"
   },
   {
     "model": "G-012",
     "name": "五孔",
-    "firprice": "34.8",
-    "secprice": "12.179999999999998"
+    "original_price": "34.8"
   },
   {
     "model": "G-013",
     "name": "10A多功能三孔",
-    "firprice": "29.8",
-    "secprice": "10.43"
+    "original_price": "29.8"
   },
   {
     "model": "G-014",
     "name": "多功能五孔",
-    "firprice": "36.6",
-    "secprice": "12.81"
+    "original_price": "36.6"
   },
   {
     "model": "G-015",
     "name": "七孔",
-    "firprice": "40.6",
-    "secprice": "14.209999999999999"
+    "original_price": "40.6"
   },
   {
     "model": "G-016",
     "name": "一开三孔单控",
-    "firprice": "50.3",
-    "secprice": "17.604999999999997"
+    "original_price": "50.3"
   },
   {
     "model": "G-017",
     "name": "一开三孔双控",
-    "firprice": "54.8",
-    "secprice": "19.179999999999996"
+    "original_price": "54.8"
   },
   {
     "model": "G-018",
     "name": "一开五孔单控",
-    "firprice": "49.5",
-    "secprice": "17.325"
+    "original_price": "49.5"
   },
   {
     "model": "G-019",
     "name": "一开五孔双控",
-    "firprice": "52.2",
-    "secprice": "18.27"
+    "original_price": "52.2"
   },
   {
     "model": "G-020",
     "name": "电视",
-    "firprice": "40.6",
-    "secprice": "14.209999999999999"
+    "original_price": "40.6"
   },
   {
     "model": "G-021",
     "name": "电视分支一分一",
-    "firprice": "55.8",
-    "secprice": "19.529999999999998"
+    "original_price": "55.8"
   },
   {
     "model": "G-022",
     "name": "电视分支一分二",
-    "firprice": "62.3",
-    "secprice": "21.804999999999996"
+    "original_price": "62.3"
   },
   {
     "model": "G-023",
     "name": "电话",
-    "firprice": "40.6",
-    "secprice": "14.209999999999999"
+    "original_price": "40.6"
   },
   {
     "model": "G-024",
     "name": "电脑",
-    "firprice": "48.8",
-    "secprice": "17.08"
+    "original_price": "48.8"
   },
   {
     "model": "G-025",
     "name": "二孔电视",
-    "firprice": "49.8",
-    "secprice": "17.429999999999996"
+    "original_price": "49.8"
   },
   {
     "model": "G-026",
     "name": "二位电话",
-    "firprice": "49.8",
-    "secprice": "17.429999999999996"
+    "original_price": "49.8"
   },
   {
     "model": "G-027",
     "name": "二位电脑",
-    "firprice": "61.6",
-    "secprice": "21.56"
+    "original_price": "61.6"
   },
   {
     "model": "G-028",
     "name": "电话/电脑",
-    "firprice": "55.6",
-    "secprice": "19.46"
+    "original_price": "55.6"
   },
   {
     "model": "G-029",
     "name": "电视/电话",
-    "firprice": "49.8",
-    "secprice": "17.429999999999996"
+    "original_price": "49.8"
   },
   {
     "model": "G-030",
     "name": "电视/电脑",
-    "firprice": "55.6",
-    "secprice": "19.46"
+    "original_price": "55.6"
   },
   {
     "model": "G-031",
     "name": "一位音箱",
-    "firprice": "52.6",
-    "secprice": "18.41"
+    "original_price": "52.6"
   },
   {
     "model": "G-032",
     "name": "二位音箱",
-    "firprice": "70.6",
-    "secprice": "24.709999999999997"
+    "original_price": "70.6"
   },
   {
     "model": "G-033",
     "name": "声光控开关",
-    "firprice": "73",
-    "secprice": "25.549999999999997"
+    "original_price": "73"
   },
   {
     "model": "G-034",
     "name": "声光控开关节能",
-    "firprice": "99.8",
-    "secprice": "34.93"
+    "original_price": "99.8"
   },
   {
     "model": "G-035",
     "name": "触摸开关",
-    "firprice": "73",
-    "secprice": "25.549999999999997"
+    "original_price": "73"
   },
   {
     "model": "G-036",
     "name": "触摸开关节能",
-    "firprice": "99.8",
-    "secprice": "34.93"
+    "original_price": "99.8"
   },
   {
     "model": "G-037",
     "name": "调光",
-    "firprice": "73",
-    "secprice": "25.549999999999997"
+    "original_price": "73"
   },
   {
     "model": "G-038",
     "name": "调速",
-    "firprice": "73",
-    "secprice": "25.549999999999997"
+    "original_price": "73"
   },
   {
     "model": "G-039",
     "name": "门铃开关",
-    "firprice": "29.5",
-    "secprice": "10.325"
+    "original_price": "29.5"
   },
   {
     "model": "C1-041",
     "name": "人体感应",
-    "firprice": "177.3",
-    "secprice": "62.055"
+    "original_price": "177.3"
   },
   {
     "model": "C1-042",
     "name": "人体感应节能",
-    "firprice": "220.3",
-    "secprice": "77.105"
+    "original_price": "220.3"
   },
   {
     "model": "G-040",
     "name": "一位荧光门铃开关",
-    "firprice": "28.3",
-    "secprice": "9.905"
+    "original_price": "28.3"
   },
   {
     "model": "G-041",
     "name": "请勿打扰，清理门铃开关",
-    "firprice": "118.9",
-    "secprice": "41.615"
+    "original_price": "118.9"
   },
   {
     "model": "G-042",
     "name": "空白面板",
-    "firprice": "17.3",
-    "secprice": "6.055"
+    "original_price": "17.3"
   },
   {
     "model": "G-043",
     "name": "五孔SUB",
-    "firprice": "125",
-    "secprice": "43.75"
+    "original_price": "125"
   }
 ]

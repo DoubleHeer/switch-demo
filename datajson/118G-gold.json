@@ -2,208 +2,182 @@
   {
     "model": "G-118-001",
     "name": "一位单控平板",
-    "firprice": "30.9",
-    "secprice": "12.36",
+    "original_price": "30.9",
     "part_name": "一位面板",
     "part_price": "19.1"
   },
   {
     "model": "G-118-002",
     "name": "一位双控平板",
-    "firprice": "32.7",
-    "secprice": "13.080000000000002",
+    "original_price": "32.7",
     "part_name": "二位面板",
     "part_price": "19.1"
   },
   {
     "model": "G-118-003",
     "name": "一位多控平板",
-    "firprice": "44.9",
-    "secprice": "17.96",
+    "original_price": "44.9",
     "part_name": "三位面板",
     "part_price": "26.7"
   },
   {
     "model": "G-118-004",
     "name": "一位单控大平板",
-    "firprice": "32.7",
-    "secprice": "13.080000000000002",
+    "original_price": "32.7",
     "part_name": "四位面板",
     "part_price": "34.38"
   },
   {
     "model": "G-118-005",
     "name": "一位双控大平板",
-    "firprice": "34.7",
-    "secprice": "13.880000000000003",
+    "original_price": "34.7",
     "part_name": "一位中跷板单控",
     "part_price": "11.8"
   },
   {
     "model": "G-118-006",
     "name": "二位单控平板",
-    "firprice": "42.7",
-    "secprice": "17.080000000000002",
+    "original_price": "42.7",
     "part_name": "一位中跷板双控",
     "part_price": "13.6"
   },
   {
     "model": "G-118-007",
     "name": "二位双控平板",
-    "firprice": "46.3",
-    "secprice": "18.52",
+    "original_price": "46.3",
     "part_name": "一位中跷板多控",
     "part_price": "25.8"
   },
   {
     "model": "G-118-008",
     "name": "三位单控平板",
-    "firprice": "62.1",
-    "secprice": "24.840000000000003",
+    "original_price": "62.1",
     "part_name": "小二位跷板单控",
     "part_price": "23.3"
   },
   {
     "model": "G-118-009",
     "name": "三位双控平板",
-    "firprice": "67.5",
-    "secprice": "27",
+    "original_price": "67.5",
     "part_name": "小二位跷板双控",
     "part_price": "24.8"
   },
   {
     "model": "G-118-010",
     "name": "四位单控平板",
-    "firprice": "81.58",
-    "secprice": "32.632",
+    "original_price": "81.58",
     "part_name": "小三位跷板单控",
     "part_price": "33"
   },
   {
     "model": "G-118-011",
     "name": "四位双控平板",
-    "firprice": "88.8",
-    "secprice": "35.52",
+    "original_price": "88.8",
     "part_name": "小三位跷板双控",
     "part_price": "37.3"
   },
   {
     "model": "G-118-012",
     "name": "五位单控平板",
-    "firprice": "90.98",
-    "secprice": "36.392",
+    "original_price": "90.98",
     "part_name": "一位中平板单控",
     "part_price": "13.67"
   },
   {
     "model": "G-118-013",
     "name": "五位双控平板",
-    "firprice": "98.88",
-    "secprice": "39.552",
+    "original_price": "98.88",
     "part_name": "一位中平板双控",
     "part_price": "15.47"
   },
   {
     "model": "G-118-014",
     "name": "16A插座",
-    "firprice": "34.9",
-    "secprice": "13.96",
+    "original_price": "34.9",
     "part_name": "一位中平板多控",
     "part_price": "28.3"
   },
   {
     "model": "G-118-015",
     "name": "五孔插座",
-    "firprice": "34.9",
-    "secprice": "13.96",
+    "original_price": "34.9",
     "part_name": "小二位平板单控",
     "part_price": "25.8"
   },
   {
     "model": "G-118-016",
     "name": "两位五孔插座",
-    "firprice": "50.7",
-    "secprice": "20.28",
+    "original_price": "50.7",
     "part_name": "小二位平板双控",
     "part_price": "27.3"
   },
   {
     "model": "G-118-017",
     "name": "三位五孔插座",
-    "firprice": "74.1",
-    "secprice": "29.64",
+    "original_price": "74.1",
     "part_name": "小三位平板单控",
     "part_price": "36.75"
   },
   {
     "model": "G-118-018",
     "name": "四位五孔插座",
-    "firprice": "97.58",
-    "secprice": "39.032000000000004",
+    "original_price": "97.58",
     "part_name": "小三位平板双控",
     "part_price": "41.05"
   },
   {
     "model": "G-118-019",
     "name": "一位单控平板带一位五孔插座",
-    "firprice": "48.57",
-    "secprice": "19.428",
+    "original_price": "48.57",
     "part_name": "一位大平板单控",
     "part_price": "13.6"
   },
   {
     "model": "G-118-020",
     "name": "一位双控平板带一位五孔插座",
-    "firprice": "50.37",
-    "secprice": "20.148",
+    "original_price": "50.37",
     "part_name": "一位大平板双控",
     "part_price": "15.6"
   },
   {
     "model": "G-118-021",
     "name": "一位单控平板带二位五孔插座",
-    "firprice": "71.97",
-    "secprice": "28.788",
+    "original_price": "71.97",
     "part_name": "16A插座",
     "part_price": "15.8"
   },
   {
     "model": "G-118-022",
     "name": "一位双控平板带二位五孔插座",
-    "firprice": "73.77",
-    "secprice": "29.508",
+    "original_price": "73.77",
     "part_name": "多功能插座",
     "part_price": "13.6"
   },
   {
     "model": "G-118-023",
     "name": "二位单控平板带二位五孔插座",
-    "firprice": "93.32",
-    "secprice": "37.327999999999996",
+    "original_price": "93.32",
     "part_name": "一位五孔插座",
     "part_price": "15.8"
   },
   {
     "model": "G-118-024",
     "name": "二位双控平板带二位五孔插座",
-    "firprice": "96.92",
-    "secprice": "38.768",
+    "original_price": "96.92",
     "part_name": "一位电视插座",
     "part_price": "15.8"
   },
   {
     "model": "G-118-025",
     "name": "三位单控平板带二位五孔插座",
-    "firprice": "102.73",
-    "secprice": "41.092000000000006",
+    "original_price": "102.73",
     "part_name": "一位电话插座",
     "part_price": "15.8"
   },
   {
     "model": "G-118-026",
     "name": "三位双控平板带二位五孔插座",
-    "firprice": "107.03",
-    "secprice": "42.812000000000005",
+    "original_price": "107.03",
     "part_name": "一位电脑插座",
     "part_price": "18.3"
   },

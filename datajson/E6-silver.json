@@ -3,289 +3,241 @@
   {
     "model": "E6-001",
     "name": "一开单控",
-    "firprice": "21.43",
-    "secprice": "7.5005"
+    "original_price": "21.43"
   },
   {
     "model": "E6-002",
     "name": "一开双控",
-    "firprice": "23.3",
-    "secprice": "8.155"
+    "original_price": "23.3"
   },
   {
     "model": "E6-003",
     "name": "一开多控",
-    "firprice": "31",
-    "secprice": "10.85"
+    "original_price": "31"
   },
   {
     "model": "E6-004",
     "name": "二开单控",
-    "firprice": "29.5",
-    "secprice": "10.325"
+    "original_price": "29.5"
   },
   {
     "model": "E6-005",
     "name": "二开双控",
-    "firprice": "31",
-    "secprice": "10.85"
+    "original_price": "31"
   },
   {
     "model": "E6-006",
     "name": "二开多控",
-    "firprice": "52.3",
-    "secprice": "18.304999999999996"
+    "original_price": "52.3"
   },
   {
     "model": "E6-007",
     "name": "三开单控",
-    "firprice": "37.6",
-    "secprice": "13.16"
+    "original_price": "37.6"
   },
   {
     "model": "E6-008",
     "name": "三开双控",
-    "firprice": "40.3",
-    "secprice": "14.104999999999999"
+    "original_price": "40.3"
   },
   {
     "model": "E6-009",
     "name": "四位单控",
-    "firprice": "47.7",
-    "secprice": "16.695"
+    "original_price": "47.7"
   },
   {
     "model": "E6-010",
     "name": "四位双控",
-    "firprice": "52.3",
-    "secprice": "18.304999999999996"
+    "original_price": "52.3"
   },
   {
     "model": "E6-011",
     "name": "16A三孔",
-    "firprice": "31.11",
-    "secprice": "10.888499999999999"
+    "original_price": "31.11"
   },
   {
     "model": "E6-012",
     "name": "五孔",
-    "firprice": "27.33",
-    "secprice": "9.565499999999998"
+    "original_price": "27.33"
   },
   {
     "model": "E6-013",
     "name": "10A多功能三孔",
-    "firprice": "24.8",
-    "secprice": "8.68"
+    "original_price": "24.8"
   },
   {
     "model": "E6-014",
     "name": "多功能五孔",
-    "firprice": "28.56",
-    "secprice": "9.995999999999999"
+    "original_price": "28.56"
   },
   {
     "model": "E6-015",
     "name": "七孔",
-    "firprice": "37.6",
-    "secprice": "13.16"
+    "original_price": "37.6"
   },
   {
     "model": "E6-016",
     "name": "一开三孔单控",
-    "firprice": "48",
-    "secprice": "16.799999999999997"
+    "original_price": "48"
   },
   {
     "model": "E6-017",
     "name": "一开三孔双控",
-    "firprice": "50",
-    "secprice": "17.5"
+    "original_price": "50"
   },
   {
     "model": "E6-018",
     "name": "一开五孔单控",
-    "firprice": "39.3",
-    "secprice": "13.754999999999999"
+    "original_price": "39.3"
   },
   {
     "model": "E6-019",
     "name": "一开五孔双控",
-    "firprice": "41.5",
-    "secprice": "14.524999999999999"
+    "original_price": "41.5"
   },
   {
     "model": "E6-020",
     "name": "二开五孔单控",
-    "firprice": "51.3",
-    "secprice": "17.955"
+    "original_price": "51.3"
   },
   {
     "model": "E6-021",
     "name": "二开五孔双控",
-    "firprice": "54.1",
-    "secprice": "18.935"
+    "original_price": "54.1"
   },
   {
     "model": "E6-022",
     "name": "电视",
-    "firprice": "34.7",
-    "secprice": "12.145"
+    "original_price": "34.7"
   },
   {
     "model": "E6-023",
     "name": "电视分支一分一",
-    "firprice": "47.8",
-    "secprice": "16.729999999999997"
+    "original_price": "47.8"
   },
   {
     "model": "E6-024",
     "name": "电视分支一分二",
-    "firprice": "56",
-    "secprice": "19.599999999999998"
+    "original_price": "56"
   },
   {
     "model": "E6-025",
     "name": "电话",
-    "firprice": "34.7",
-    "secprice": "12.145"
+    "original_price": "34.7"
   },
   {
     "model": "E6-026",
     "name": "电脑",
-    "firprice": "43.6",
-    "secprice": "15.26"
+    "original_price": "43.6"
   },
   {
     "model": "E6-027",
     "name": "二孔电视",
-    "firprice": "42.9",
-    "secprice": "15.014999999999999"
+    "original_price": "42.9"
   },
   {
     "model": "E6-028",
     "name": "二位电话",
-    "firprice": "42.9",
-    "secprice": "15.014999999999999"
+    "original_price": "42.9"
   },
   {
     "model": "E6-029",
     "name": "二位电脑",
-    "firprice": "58.2",
-    "secprice": "20.37"
+    "original_price": "58.2"
   },
   {
     "model": "E6-030",
     "name": "电话/电脑",
-    "firprice": "51.6",
-    "secprice": "18.06"
+    "original_price": "51.6"
   },
   {
     "model": "E6-031",
     "name": "电视/电话",
-    "firprice": "41.3",
-    "secprice": "14.454999999999998"
+    "original_price": "41.3"
   },
   {
     "model": "E6-032",
     "name": "电视/电脑",
-    "firprice": "51.6",
-    "secprice": "18.06"
+    "original_price": "51.6"
   },
   {
     "model": "E6-033",
     "name": "一位音箱",
-    "firprice": "50.8",
-    "secprice": "17.779999999999998"
+    "original_price": "50.8"
   },
   {
     "model": "E6-034",
     "name": "二位音箱",
-    "firprice": "57.2",
-    "secprice": "20.02"
+    "original_price": "57.2"
   },
   {
     "model": "E6-035",
     "name": "声光控开关",
-    "firprice": "69.8",
-    "secprice": "24.429999999999996"
+    "original_price": "69.8"
   },
   {
     "model": "E6-036",
     "name": "声光控开关节能",
-    "firprice": "96.5",
-    "secprice": "33.775"
+    "original_price": "96.5"
   },
   {
     "model": "E6-037",
     "name": "触摸开关",
-    "firprice": "69.8",
-    "secprice": "24.429999999999996"
+    "original_price": "69.8"
   },
   {
     "model": "E6-038",
     "name": "触摸开关节能",
-    "firprice": "96.5",
-    "secprice": "33.775"
+    "original_price": "96.5"
   },
   {
     "model": "E6-039",
     "name": "调光",
-    "firprice": "69",
-    "secprice": "24.15"
+    "original_price": "69"
   },
   {
     "model": "E6-040",
     "name": "调速",
-    "firprice": "69",
-    "secprice": "24.15"
+    "original_price": "69"
   },
   {
     "model": "E6-041",
     "name": "人体感应",
-    "firprice": "178.8",
-    "secprice": "62.58"
+    "original_price": "178.8"
   },
   {
     "model": "E6-042",
     "name": "人体感应节能",
-    "firprice": "210",
-    "secprice": "73.5"
+    "original_price": "210"
   },
   {
     "model": "E6-043",
     "name": "插卡取电",
-    "firprice": "219.5",
-    "secprice": "76.82499999999999"
+    "original_price": "219.5"
   },
   {
     "model": "E6-044",
     "name": "感应插卡取电",
-    "firprice": "308.3",
-    "secprice": "107.905"
+    "original_price": "308.3"
   },
   {
     "model": "E6-045",
     "name": "一位门铃开关",
-    "firprice": "28",
-    "secprice": "9.799999999999999"
+    "original_price": "28"
   },
   {
     "model": "E6-046",
     "name": "请勿打扰，清理门铃开关",
-    "firprice": "116.9",
-    "secprice": "40.915"
+    "original_price": "116.9"
   },
   {
     "model": "E6-047",
     "name": "空白面板",
-    "firprice": "14.6",
-    "secprice": "5.109999999999999"
+    "original_price": "14.6"
   },
   {
     "model": "E6-048",
     "name": "五孔SUB",
-    "firprice": "112.5",
-    "secprice": "39.375"
+    "original_price": "112.5"
   }
 ]
